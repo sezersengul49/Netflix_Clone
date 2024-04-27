@@ -1,7 +1,7 @@
 <h1>Netflix_Clone</h1>
 
 
-Bu projede kullanıcı istediği todoyu ekleyip çıkarıp veya düzenleme yapabilir.
+Bu proje bir netflix clone projesidir 
 
 
 <h2>Kullanılan Teknolojiler</h2>
